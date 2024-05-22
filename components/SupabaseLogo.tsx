@@ -1,3 +1,5 @@
+import React from 'react'
+
 export default function SupabaseLogo() {
   return (
     <svg
@@ -98,5 +100,5 @@ export default function SupabaseLogo() {
         </clipPath>
       </defs>
     </svg>
-  );
+  )
 }
